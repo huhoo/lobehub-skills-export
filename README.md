@@ -1,5 +1,9 @@
 # lobehub-skills-export
 
+<!-- SOURCE-ANCHOR:start -->
+本仓列＝主仓 274ac43 的取值窗（构建时现取，不手打）。
+<!-- SOURCE-ANCHOR:end -->
+
 
 导出镜像（export-only），**唯一真值源是 https://github.com/huhoo/cue-awesome**。本仓不写独立内容：文件一律由主仓构建口生成，改进回主仓改、过主仓门禁后重新导出。
 
